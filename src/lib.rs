@@ -1,3 +1,4 @@
+#![cfg(windows)]
 use std::mem;
 use std::ffi::CStr;
 use std::vec::IntoIter;
